@@ -1,1 +1,3 @@
 Data Science is very Interesting field. Data has lot of hidden information. its to the best capability of one, how to make wonderful things happen using Data.
+In todays world Data is driving small to large business. Data Science deals with business domain and extract the outcome of diffrent aspects.
+Data obtained can be used for presiction or decision making. the Data is also helpful to get impact of future plans before hand.
